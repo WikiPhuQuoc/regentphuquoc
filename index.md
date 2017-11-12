@@ -1,4 +1,9 @@
 ## Welcome to [Wiki Phú Quốc](http://wikiphuquoc.com) GitHub Pages
+[Regent Phú Quốc](http://regent-phuquoc.com)
+[Dự án Regent Phú Quốc](http://phuquoc-marina.vn/regent-phu-quoc/)
+[Villas Regent Phu Quoc](http://wikiphuquoc.com/du-an/regent-phu-quoc/)
+[Regent Phu Quoc](http://home2home.vn/du-an/regent-phu-quoc/)
+[Phú Quốc](http://wikiphuquoc.com)
 
 You can use the [editor on GitHub](https://github.com/WikiPhuQuoc/regentphuquoc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
